@@ -1,5 +1,7 @@
 ## Academic Work - Group 📝
 
+ResortReservation is repository for building a simple program that can reserve a user for a slot in a resort and also create transactions.
+
 1st Sem 2022
 
 Leader:  Winsmarl Cañete
