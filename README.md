@@ -1,4 +1,4 @@
-## Academic Work - Group 📝
+# Academic Work - Group 📝
 
 ResortReservation is repository for building a simple program that can reserve a user for a slot in a resort and also create transactions.
          
@@ -18,8 +18,8 @@ Description:
  - README.md
  
   
- 
-###The Team  💪 
+## The Team  💪 
+
 Leader:  Winsmarl Cañete
 
 Members: 
