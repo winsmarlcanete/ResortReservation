@@ -34,6 +34,6 @@ What I Learned:
 Note:
 
 -Our school did not sponsor GitHub nor recommended to us. I just suggested this to our group since it can enhance our productivity.
-   Also, I have no idea how to deploy this. But it can be viewed via https://htmlpreview.github.io/ (Just paste the html link of task2.html).
+         To execute this, copy the main.cpp source code and paste to an IDE since it this project only contins a single file. An alternative for this is running through command prompt by typing gcc main.ccp and typing main. Another option is to go to this link --> https://onlinegdb.com/xpE_op9BL (Run the code or Fork it if you want).
    
 ✍️: Winsmarl Cañete
