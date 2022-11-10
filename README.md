@@ -1,6 +1,6 @@
 # Academic Work - Group 📝
 
-ResortReservation is repository for building a simple program that can reserve a user for a slot in a resort and also create transactions.
+ResortReservation is repository for building a simple program that can book a user for a slot in a resort and also create transactions.
          
 Description: 
 
